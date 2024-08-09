@@ -98,7 +98,6 @@ public class PaymentMethodsPage extends BasePage {
 	}
 
 	public void userVerifiesCardIsPresentInManagePayment() {
-		// TODO Auto-generated method stub
 		
 	}
 

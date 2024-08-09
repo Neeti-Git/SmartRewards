@@ -22,7 +22,7 @@ public class PaymentMethodsStep {
 	public void user_click_on_add_a_new_payment_method() {
 		new PaymentMethodsPage().userClickOnAddNewPaymentMethod();
 	}
-
+	
 	@Then("User click on Add button after Credit card")
 	public void user_click_on_add_button_after_credit_card() {
 		new PaymentMethodsPage().userClickOnAddButtonAfterCreditCard();
